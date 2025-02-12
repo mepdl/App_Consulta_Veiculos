@@ -6,4 +6,4 @@ Este é um aplicativo Streamlit para consulta de veículos IVECO a partir de arq
 
 1. Clone o repositório:
    ```bash
-   git clone https:
+   git clone https:https://github.com/mepdl/App_Consulta_Veiculos
